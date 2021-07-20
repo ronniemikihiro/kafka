@@ -1,0 +1,8 @@
+METHOD: POST
+URL: localhost:8080/cars
+Body raw JSON
+
+{
+    "model": "honda",
+    "color": "civic"
+}
